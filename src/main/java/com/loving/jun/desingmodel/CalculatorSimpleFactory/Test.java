@@ -1,4 +1,4 @@
-package com.loving.jun.desingmodel.SimpleFactory;
+package com.loving.jun.desingmodel.CalculatorSimpleFactory;
 
 /**
  * @Author: yijunjun
