@@ -1,4 +1,4 @@
-package com.loving.jun.desingmodel;
+package com.loving.jun;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
