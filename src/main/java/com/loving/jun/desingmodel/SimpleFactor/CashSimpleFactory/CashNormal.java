@@ -1,4 +1,4 @@
-package com.loving.jun.desingmodel.CashSimpleFactory;
+package com.loving.jun.desingmodel.SimpleFactor.CashSimpleFactory;
 
 /**
  * 正常收费子类

@@ -1,4 +1,4 @@
-package com.loving.jun.desingmodel.CalculatorSimpleFactory;
+package com.loving.jun.desingmodel.SimpleFactor.CalculatorSimpleFactory;
 
 /**
  * 加法操作类，同理可得减法，乘法，除法操作类

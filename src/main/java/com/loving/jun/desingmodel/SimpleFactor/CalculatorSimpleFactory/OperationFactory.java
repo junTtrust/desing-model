@@ -1,4 +1,4 @@
-package com.loving.jun.desingmodel.CalculatorSimpleFactory;
+package com.loving.jun.desingmodel.SimpleFactor.CalculatorSimpleFactory;
 
 /**
  * 计算工厂类
