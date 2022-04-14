@@ -1,4 +1,4 @@
-package com.loving.jun.desingmodel.strategy.CashStrategy;
+package com.loving.jun.desingmodel.Strategy.CashStrategy;
 
 /**
  * 现金收费抽象类
